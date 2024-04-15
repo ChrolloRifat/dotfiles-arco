@@ -1,0 +1,5 @@
+# Include the dot_config directory within it
+!dot_config/
+
+# Ignore the bspwm directory specifically within dot_config
+dot_config/bspwm
